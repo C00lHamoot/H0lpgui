@@ -153,7 +153,7 @@ e1x1x1x1Laugh.MouseButton1Down:connect(function()
 
 	s.Name = "Sound"
 	s.SoundId = "http://www.roblox.com/asset/?id=35935204"
-	s.Volume = 1
+	s.Volume = 100
 	s.Pitch = 0.9
 	s.Looped = true
 	s.archivable = false
